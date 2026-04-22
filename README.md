@@ -1,1 +1,0 @@
-# captcha_img_to_text
