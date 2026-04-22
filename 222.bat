@@ -1,0 +1,1 @@
+.\otp-finder.exe "./img/OTP 996943.png"

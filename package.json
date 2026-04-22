@@ -1,0 +1,13 @@
+{
+  "name": "otp-arrow-finder",
+  "version": "1.0.0",
+  "description": "Нахождение зелёной стрелки на OTP изображениях",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node main.js"
+  },
+  "dependencies": {
+    "jimp": "^0.22.0"
+  }
+}
